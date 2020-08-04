@@ -1,0 +1,1 @@
+java -jar refreshtask.jar user.properties
